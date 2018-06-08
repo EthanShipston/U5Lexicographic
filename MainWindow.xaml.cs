@@ -1,4 +1,9 @@
-﻿using System;
+/* Ethan Shipston
+ * U5Lexicographic
+ * 6/7/2018
+ * A program that tells you a number
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
